@@ -1,1 +1,3 @@
 # Modern-Computational-Statistics
+
+Learn to apply Bayesian inference which is the mathematical framework for using observed data to update the information we have about a system. The course proceeds from the fundamentals of probability theory and Bayesian inference to the data modeling process, covering various real-world scenarios from sports, medicine, vehicle tracking, social sciences, and more. The second half of the course covers approximate methods for automating inference in the form of variational inference (approximations using functions) and Monte Carlo methods (approximations using random samples). These methods allow us to work with large models containing many unknown variables and large data sets.
